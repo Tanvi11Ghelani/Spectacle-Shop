@@ -1,0 +1,34 @@
+.home_section{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    top: 60px;
+    background-color: #e7e7e7;
+    min-height: calc(100vh - 60px);
+    border-bottom: 2px solid rgb(199, 199, 199);
+    margin-bottom: 10px;
+}
+.hero_section{
+    margin-top: 70px;
+}
+.offer-text{
+    color: #106b92;
+    background-color: #fff;
+    font-size: larger;
+    font-weight: 800;
+    text-align: center;
+    height: 80px;
+}
+.center{
+    width: 100%;
+    display: flex;
+    background-color: rgb(204, 146, 146);
+}
+.center_text{
+    text-align: center;
+    margin-top: 13px;
+    padding: 10px;
+    background-color: rgb(247, 246, 244);
+    color:#106b92;
+    font-size: larger;
+}

@@ -1,0 +1,8 @@
+.bannersun{
+    display: flex;
+    width: 100%;
+}
+.bannersun img{
+    width: 50%;
+    height: 700px;
+}
